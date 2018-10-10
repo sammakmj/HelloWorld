@@ -1,2 +1,2 @@
 # HelloWorld
-Philldotnet Hands on October 10, 2018
+PhillDotNet Hands-On lab for October 10, 2018
